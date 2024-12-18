@@ -161,4 +161,38 @@ header{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+    margin-left: 100px;
+}
+
+.billie{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.bills{
+    position: relative;
+    height: 50px;
+   bottom: 10px;
+   left: 400px;
+}
+
+
+.lastpart{
+    background-image: url(img/part.png);
+    height: 450px;
+    width: auto;
+    margin-top: 100px;
+}
+
+footer{
+    height: 80px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: ken;
+    font-size: 18px;
 }
