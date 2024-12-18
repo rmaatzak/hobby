@@ -196,3 +196,7 @@ footer{
     font-family: ken;
     font-size: 18px;
 }
+
+html{
+    scroll-behavior: smooth;
+}
